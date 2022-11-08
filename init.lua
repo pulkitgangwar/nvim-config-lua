@@ -10,7 +10,6 @@ require "pulkitgangwar.plugins.nvim-cmp"
 require "pulkitgangwar.plugins.bufferline"
 require "pulkitgangwar.plugins.nvim-neoclip"
 require "pulkitgangwar.plugins.toggleterm"
-require "pulkitgangwar.plugins.lsp-config"
 require "pulkitgangwar.plugins.trouble"
 require "pulkitgangwar.plugins.nvim-treesitter"
 
