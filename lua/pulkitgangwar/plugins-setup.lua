@@ -118,6 +118,9 @@ return packer.startup(function(use)
   -- better visual error messages 
   use("folke/trouble.nvim")
 
+  --  vim game
+  use("ThePrimeagen/vim-be-good")
+
 
 
 
