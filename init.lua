@@ -12,6 +12,5 @@ require "pulkitgangwar.plugins.nvim-neoclip"
 require "pulkitgangwar.plugins.toggleterm"
 require "pulkitgangwar.plugins.trouble"
 require "pulkitgangwar.plugins.nvim-treesitter"
-
-
+require "pulkitgangwar.plugins.autopairs"
 
