@@ -16,5 +16,7 @@ require "pulkitgangwar.plugins.lsp.nvim-cmp"
 require "pulkitgangwar.plugins.lsp.lsp-config"
 require "pulkitgangwar.plugins.lsp.mason"
 require "pulkitgangwar.plugins.lsp.null-ls"
+require "pulkitgangwar.plugins.lsp.lspsaga"
+
 
 

@@ -84,7 +84,7 @@ return packer.startup(function(use)
 
 	-- configuring lsp servers
 	use("neovim/nvim-lspconfig")
-	-- use({ "glepnir/lspsaga.nvim", branch = "main" }) -- enhanced lsp uis
+	use({ "glepnir/lspsaga.nvim", branch = "main" }) -- enhanced lsp uis
 
 	-- configuring lsp servers
 	-- use("hrsh7th/cmp-nvim-lsp") -- for autocompletion
@@ -128,6 +128,9 @@ return packer.startup(function(use)
 
   -- auto pairs
   use("windwp/nvim-autopairs")
+
+  -- git diff view
+  use("sindrets/diffview.nvim")
 
 
 	if packer_bootstrap then

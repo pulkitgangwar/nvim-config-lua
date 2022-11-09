@@ -61,7 +61,13 @@ keymap.set("n","<leader>bx",":Bdelete<CR>")
 -- neoclip
 keymap.set("n","<leader>cm",":Telescope neoclip<CR>")
 
+-- diff view
+keymap.set("n","<leader>go","<cmd>DiffviewOpen<CR>")
+keymap.set("n","<leader>gx","<cmd>DiffviewClose<CR>")
+keymap.set("n","<leader>gt","<cmd>DiffviewToggleFiles<CR>")
 
+
+-- toggle terminal 
 
 keymap.set("n","<C-w>",":ToggleTerm<CR>")
 
