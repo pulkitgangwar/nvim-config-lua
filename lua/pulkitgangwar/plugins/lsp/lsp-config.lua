@@ -30,6 +30,11 @@ lspconfig.tsserver.setup({
   capabilities = capabilities
 })
 
+lspconfig.tailwindcss.setup({
+  on_attach = on_attach,
+  capabilities = capabilities
+})
+
 lspconfig["sumneko_lua"].setup({
   on_attach = on_attach,
   capabilities = capabilities,
