@@ -6,11 +6,11 @@ require "pulkitgangwar.plugins.comment"
 require "pulkitgangwar.plugins.nvim-tree"
 require "pulkitgangwar.plugins.lualine"
 require "pulkitgangwar.plugins.telescope"
-require "pulkitgangwar.plugins.nvim-cmp"
 require "pulkitgangwar.plugins.bufferline"
 require "pulkitgangwar.plugins.nvim-neoclip"
 require "pulkitgangwar.plugins.toggleterm"
 require "pulkitgangwar.plugins.trouble"
 require "pulkitgangwar.plugins.nvim-treesitter"
 require "pulkitgangwar.plugins.autopairs"
+
 
