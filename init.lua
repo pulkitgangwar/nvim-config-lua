@@ -12,5 +12,9 @@ require "pulkitgangwar.plugins.toggleterm"
 require "pulkitgangwar.plugins.trouble"
 require "pulkitgangwar.plugins.nvim-treesitter"
 require "pulkitgangwar.plugins.autopairs"
+require "pulkitgangwar.plugins.lsp.nvim-cmp"
+require "pulkitgangwar.plugins.lsp.lsp-config"
+require "pulkitgangwar.plugins.lsp.mason"
+require "pulkitgangwar.plugins.lsp.null-ls"
 
 
